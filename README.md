@@ -50,14 +50,20 @@ This is used to define task dependencies. It specifies the order in which the ta
 Exporter
 
 1. Sequential exporter
-2. Local exporter
+    train_task >> model_saved >> task_complted
+3. Local exporter
     : It runs tasks in parallel on a single machine using multiple processes. Tasks are executed in separate processes, allowing parallelism.
     : Allows parallel execution of tasks on a single machine. More efficient than SequentialExecutor for medium workloads.
     > executor = LocalExecutor
+    
+   
     ![Screenshot from 2024-11-19 22-12-07](https://github.com/user-attachments/assets/07402aac-9a17-4cd5-a3f5-f4767822191c)
+   
     ![Screenshot from 2024-11-19 22-12-37](https://github.com/user-attachments/assets/051c5652-43c8-499b-97dc-6dde105f83da)
 
     > It is not support for sqlite so you need to change dbb to postgrsql,MySQL
+
+    <pre> train_task >> [model_saved, task_complted] </pre>
     
 4. 
 
