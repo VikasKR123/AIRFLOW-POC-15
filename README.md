@@ -47,6 +47,18 @@ This is used to define task dependencies. It specifies the order in which the ta
 ![Screenshot from 2024-11-19 14-31-02](https://github.com/user-attachments/assets/f936140b-5964-4390-a8e1-172353e5a001)
 
 
+Exporter
 
+1. Sequential exporter
+2. Local exporter
+    : It runs tasks in parallel on a single machine using multiple processes. Tasks are executed in separate processes, allowing parallelism.
+    : Allows parallel execution of tasks on a single machine. More efficient than SequentialExecutor for medium workloads.
+    > executor = LocalExecutor
+    ![Screenshot from 2024-11-19 22-12-07](https://github.com/user-attachments/assets/07402aac-9a17-4cd5-a3f5-f4767822191c)
+    ![Screenshot from 2024-11-19 22-12-37](https://github.com/user-attachments/assets/051c5652-43c8-499b-97dc-6dde105f83da)
+
+    > It is not support for sqlite so you need to change dbb to postgrsql,MySQL
+    
+4. 
 
 
