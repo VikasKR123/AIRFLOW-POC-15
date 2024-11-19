@@ -56,7 +56,9 @@ Exporter
     : Allows parallel execution of tasks on a single machine. More efficient than SequentialExecutor for medium workloads.
     > executor = LocalExecutor
     
-   
+   ![parallel](https://github.com/user-attachments/assets/ce349db0-acb3-483b-82b7-418b0c464ce9)
+
+
     ![Screenshot from 2024-11-19 22-12-07](https://github.com/user-attachments/assets/07402aac-9a17-4cd5-a3f5-f4767822191c)
    
     ![Screenshot from 2024-11-19 22-12-37](https://github.com/user-attachments/assets/051c5652-43c8-499b-97dc-6dde105f83da)
@@ -64,7 +66,9 @@ Exporter
     > It is not support for sqlite so you need to change dbb to postgrsql,MySQL
 
     <pre> train_task >> [model_saved, task_complted] </pre>
+
     
-4. 
+    
+3. 
 
 
