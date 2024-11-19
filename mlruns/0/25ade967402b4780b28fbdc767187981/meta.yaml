@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sigmoid/airflow/mlruns/0/25ade967402b4780b28fbdc767187981/artifacts
+end_time: 1732006798850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25ade967402b4780b28fbdc767187981
+run_name: chill-wasp-851
+run_uuid: 25ade967402b4780b28fbdc767187981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732006793997
+status: 3
+tags: []
+user_id: sigmoid

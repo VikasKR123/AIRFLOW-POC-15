@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sigmoid/airflow/mlruns/0/77be52304b3240b69ac2fd93b3a45795/artifacts
+end_time: 1732003772455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77be52304b3240b69ac2fd93b3a45795
+run_name: magnificent-cod-918
+run_uuid: 77be52304b3240b69ac2fd93b3a45795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732003768588
+status: 3
+tags: []
+user_id: sigmoid

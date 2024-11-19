@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732003772453
+current_stage: None
+description: null
+last_updated_timestamp: 1732003772453
+name: ToxicCommentModel
+run_id: 77be52304b3240b69ac2fd93b3a45795
+run_link: null
+source: file:///home/sigmoid/airflow/mlruns/0/77be52304b3240b69ac2fd93b3a45795/artifacts/toxic_comment_model_by_vikas
+status: READY
+status_message: null
+storage_location: file:///home/sigmoid/airflow/mlruns/0/77be52304b3240b69ac2fd93b3a45795/artifacts/toxic_comment_model_by_vikas
+user_id: null
+version: 1

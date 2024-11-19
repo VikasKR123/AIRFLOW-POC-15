@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sigmoid/airflow/mlruns/0/b78f64cb54f64a328881c14b5e0e8bbf/artifacts
+end_time: 1732006754802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b78f64cb54f64a328881c14b5e0e8bbf
+run_name: traveling-shad-593
+run_uuid: b78f64cb54f64a328881c14b5e0e8bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732006750033
+status: 3
+tags: []
+user_id: sigmoid

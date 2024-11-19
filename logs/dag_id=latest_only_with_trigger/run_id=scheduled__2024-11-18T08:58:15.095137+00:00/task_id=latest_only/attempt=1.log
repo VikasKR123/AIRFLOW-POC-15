@@ -1,0 +1,16 @@
+[2024-11-18T18:28:32.070+0530] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: latest_only_with_trigger.latest_only scheduled__2024-11-18T08:58:15.095137+00:00 [queued]>
+[2024-11-18T18:28:32.077+0530] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: latest_only_with_trigger.latest_only scheduled__2024-11-18T08:58:15.095137+00:00 [queued]>
+[2024-11-18T18:28:32.077+0530] {taskinstance.py:1361} INFO - Starting attempt 1 of 1
+[2024-11-18T18:28:32.094+0530] {taskinstance.py:1382} INFO - Executing <Task(LatestOnlyOperator): latest_only> on 2024-11-18 08:58:15.095137+00:00
+[2024-11-18T18:28:32.099+0530] {standard_task_runner.py:57} INFO - Started process 88722 to run task
+[2024-11-18T18:28:32.106+0530] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'latest_only_with_trigger', 'latest_only', 'scheduled__2024-11-18T08:58:15.095137+00:00', '--job-id', '6', '--raw', '--subdir', '/home/sigmoid/Desktop/Personal_Ml/airflow_project/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py', '--cfg-path', '/tmp/tmpalqaw1e4']
+[2024-11-18T18:28:32.107+0530] {standard_task_runner.py:85} INFO - Job 6: Subtask latest_only
+[2024-11-18T18:28:32.146+0530] {task_command.py:416} INFO - Running <TaskInstance: latest_only_with_trigger.latest_only scheduled__2024-11-18T08:58:15.095137+00:00 [running]> on host sigmoid-ThinkPad-L470-W10DG
+[2024-11-18T18:28:32.218+0530] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='latest_only_with_trigger' AIRFLOW_CTX_TASK_ID='latest_only' AIRFLOW_CTX_EXECUTION_DATE='2024-11-18T08:58:15.095137+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-18T08:58:15.095137+00:00'
+[2024-11-18T18:28:32.221+0530] {latest_only.py:62} INFO - Checking latest only with left_window: 2024-11-18T12:58:15.095137+00:00 right_window: 2024-11-18T16:58:15.095137+00:00 now: 2024-11-18T12:58:32.221075+00:00
+[2024-11-18T18:28:32.221+0530] {latest_only.py:75} INFO - Latest, allowing execution to proceed.
+[2024-11-18T18:28:32.221+0530] {skipmixin.py:173} INFO - Following branch ['task1']
+[2024-11-18T18:28:32.236+0530] {skipmixin.py:239} INFO - Skipping tasks []
+[2024-11-18T18:28:32.274+0530] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=latest_only_with_trigger, task_id=latest_only, execution_date=20241118T085815, start_date=20241118T125832, end_date=20241118T125832
+[2024-11-18T18:28:32.320+0530] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2024-11-18T18:28:32.363+0530] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

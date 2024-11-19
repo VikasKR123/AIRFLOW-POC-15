@@ -1,0 +1,733 @@
+[2024-11-19T12:43:22.090+0530] {processor.py:161} INFO - Started process (PID=29665) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:43:22.092+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:43:22.094+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:43:22.093+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:43:22.114+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:43:22.347+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:43:22.346+0530] {override.py:1769} INFO - Created Permission View: can edit on DAG:ml_workflow
+[2024-11-19T12:43:22.357+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:43:22.357+0530] {override.py:1769} INFO - Created Permission View: can delete on DAG:ml_workflow
+[2024-11-19T12:43:22.366+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:43:22.366+0530] {override.py:1769} INFO - Created Permission View: can read on DAG:ml_workflow
+[2024-11-19T12:43:22.367+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:43:22.367+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:43:22.390+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:43:22.389+0530] {dag.py:3069} INFO - Creating ORM DAG for ml_workflow
+[2024-11-19T12:43:22.391+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:43:22.390+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:43:22.414+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.329 seconds
+[2024-11-19T12:44:22.027+0530] {processor.py:161} INFO - Started process (PID=29809) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:44:22.030+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:44:22.032+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:44:22.031+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:44:22.053+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:44:22.081+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:44:22.080+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:44:22.096+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:44:22.096+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:44:22.120+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.104 seconds
+[2024-11-19T12:45:04.129+0530] {processor.py:161} INFO - Started process (PID=29888) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:45:04.130+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:45:04.131+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:45:04.131+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:45:04.138+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:45:04.158+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:45:04.158+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:45:04.174+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:45:04.174+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:45:04.199+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.075 seconds
+[2024-11-19T12:45:40.986+0530] {processor.py:161} INFO - Started process (PID=29954) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:45:40.987+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:45:40.988+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:45:40.987+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:45:40.996+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:45:41.011+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:45:41.011+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:45:41.024+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:45:41.024+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:45:41.055+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.073 seconds
+[2024-11-19T12:46:27.850+0530] {processor.py:161} INFO - Started process (PID=30556) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:46:27.852+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:46:27.854+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:46:27.853+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:46:27.867+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:46:27.898+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:46:27.897+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:46:27.922+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:46:27.922+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:46:27.961+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.116 seconds
+[2024-11-19T12:47:19.983+0530] {processor.py:161} INFO - Started process (PID=30759) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:47:19.985+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:47:19.987+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:47:19.986+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:47:19.999+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:47:20.030+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:47:20.030+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:47:20.055+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:47:20.054+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:47:20.094+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.116 seconds
+[2024-11-19T12:48:04.259+0530] {processor.py:161} INFO - Started process (PID=30860) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:48:04.260+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:48:04.262+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:48:04.261+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:48:04.275+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:48:04.310+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:48:04.309+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:48:04.336+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:48:04.336+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:48:04.379+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.127 seconds
+[2024-11-19T12:48:33.780+0530] {processor.py:161} INFO - Started process (PID=30917) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:48:33.782+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:48:33.783+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:48:33.783+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:48:33.803+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:48:34.007+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:48:34.007+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:48:34.031+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:48:34.030+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:48:34.070+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.295 seconds
+[2024-11-19T12:49:32.637+0530] {processor.py:161} INFO - Started process (PID=31095) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:49:32.639+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:49:32.640+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:49:32.640+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:49:32.649+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:49:32.670+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:49:32.670+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:49:32.685+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:49:32.685+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:49:32.723+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.090 seconds
+[2024-11-19T12:50:18.002+0530] {processor.py:161} INFO - Started process (PID=31201) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:50:18.004+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:50:18.005+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:50:18.004+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:50:18.015+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:50:18.037+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:50:18.036+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:50:18.049+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:50:18.048+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:50:18.070+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.072 seconds
+[2024-11-19T12:51:00.853+0530] {processor.py:161} INFO - Started process (PID=31303) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:51:00.854+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:51:00.855+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:51:00.855+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:51:00.862+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:51:00.884+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:51:00.883+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:51:00.897+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:51:00.897+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:51:00.919+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.071 seconds
+[2024-11-19T12:51:43.691+0530] {processor.py:161} INFO - Started process (PID=31396) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:51:43.693+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:51:43.694+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:51:43.693+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:51:43.703+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:51:43.722+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:51:43.722+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:51:43.738+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:51:43.738+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:51:43.767+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.080 seconds
+[2024-11-19T12:52:24.016+0530] {processor.py:161} INFO - Started process (PID=31494) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:52:24.017+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:52:24.018+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:52:24.018+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:52:24.028+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:52:24.050+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:52:24.050+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:52:24.064+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:52:24.064+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:52:24.091+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.080 seconds
+[2024-11-19T12:53:06.204+0530] {processor.py:161} INFO - Started process (PID=31579) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:53:06.206+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:53:06.208+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:53:06.208+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:53:06.226+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:53:06.263+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:53:06.263+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:53:06.291+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:53:06.290+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:53:06.334+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.136 seconds
+[2024-11-19T12:53:50.056+0530] {processor.py:161} INFO - Started process (PID=31657) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:53:50.058+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:53:50.060+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:53:50.059+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:53:50.073+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:53:50.106+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:53:50.105+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:53:50.131+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:53:50.130+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:53:50.172+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.122 seconds
+[2024-11-19T12:54:33.238+0530] {processor.py:161} INFO - Started process (PID=31744) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:54:33.240+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:54:33.242+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:54:33.241+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:54:33.254+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:54:33.288+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:54:33.288+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:54:33.314+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:54:33.314+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:54:33.346+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.114 seconds
+[2024-11-19T12:55:17.128+0530] {processor.py:161} INFO - Started process (PID=31962) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:55:17.129+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:55:17.130+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:55:17.129+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:55:17.136+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:55:17.152+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:55:17.152+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:55:17.165+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:55:17.164+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:55:17.186+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.061 seconds
+[2024-11-19T12:55:57.228+0530] {processor.py:161} INFO - Started process (PID=32054) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:55:57.230+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:55:57.231+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:55:57.230+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:55:57.237+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:55:57.253+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:55:57.253+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:55:57.265+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:55:57.265+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:55:57.295+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.070 seconds
+[2024-11-19T12:56:36.273+0530] {processor.py:161} INFO - Started process (PID=32106) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:56:36.274+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:56:36.275+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:56:36.275+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:56:36.282+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:56:36.297+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:56:36.297+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:56:36.308+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:56:36.308+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:56:36.339+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.069 seconds
+[2024-11-19T12:57:12.298+0530] {processor.py:161} INFO - Started process (PID=32148) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:57:12.299+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:57:12.301+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:57:12.300+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:57:12.312+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:57:12.346+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:57:12.346+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:57:12.374+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:57:12.374+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:57:12.426+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.138 seconds
+[2024-11-19T12:57:49.845+0530] {processor.py:161} INFO - Started process (PID=32191) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:57:49.846+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:57:49.848+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:57:49.847+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:57:49.854+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:57:49.870+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:57:49.869+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:57:49.882+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:57:49.882+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:57:49.902+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.060 seconds
+[2024-11-19T12:58:26.892+0530] {processor.py:161} INFO - Started process (PID=32231) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:58:26.893+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:58:26.894+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:58:26.893+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:58:26.900+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:58:26.916+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:58:26.916+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:58:26.928+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:58:26.927+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:58:26.949+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.060 seconds
+[2024-11-19T12:59:00.910+0530] {processor.py:161} INFO - Started process (PID=32349) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:59:00.912+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:59:00.914+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:59:00.913+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:59:00.928+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:59:00.964+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:59:00.964+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:59:00.994+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:59:00.994+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:59:01.049+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.150 seconds
+[2024-11-19T12:59:38.821+0530] {processor.py:161} INFO - Started process (PID=32439) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:59:38.822+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T12:59:38.823+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:59:38.823+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:59:38.830+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T12:59:38.845+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:59:38.845+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T12:59:38.857+0530] {logging_mixin.py:188} INFO - [2024-11-19T12:59:38.857+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T12:59:38.876+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.059 seconds
+[2024-11-19T13:00:16.430+0530] {processor.py:161} INFO - Started process (PID=32508) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:00:16.431+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:00:16.432+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:00:16.431+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:00:16.438+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:00:16.454+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:00:16.453+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:00:16.465+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:00:16.465+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T13:00:16.486+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.059 seconds
+[2024-11-19T13:00:53.748+0530] {processor.py:161} INFO - Started process (PID=32578) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:00:53.749+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:00:53.750+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:00:53.749+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:00:53.756+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:00:53.772+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:00:53.771+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:00:53.788+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:00:53.787+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T13:00:53.817+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.072 seconds
+[2024-11-19T13:01:30.771+0530] {processor.py:161} INFO - Started process (PID=32900) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:01:30.773+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:01:30.776+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:01:30.775+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:01:30.791+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:01:30.843+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:01:30.843+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:01:30.865+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:01:30.865+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T13:01:30.905+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.141 seconds
+[2024-11-19T13:02:10.344+0530] {processor.py:161} INFO - Started process (PID=32973) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:02:10.345+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:02:10.346+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:02:10.346+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:02:10.353+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:02:10.369+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:02:10.369+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:02:10.381+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:02:10.380+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T13:02:10.401+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.060 seconds
+[2024-11-19T13:02:49.418+0530] {processor.py:161} INFO - Started process (PID=33017) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:02:49.420+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:02:49.421+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:02:49.420+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:02:49.427+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:02:49.443+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:02:49.443+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:02:49.455+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:02:49.454+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T13:02:49.485+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.069 seconds
+[2024-11-19T13:03:29.330+0530] {processor.py:161} INFO - Started process (PID=33059) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:03:29.332+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:03:29.333+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:03:29.333+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:03:29.340+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:03:29.359+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:03:29.359+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:03:29.374+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:03:29.374+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T13:03:29.396+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.070 seconds
+[2024-11-19T13:04:08.792+0530] {processor.py:161} INFO - Started process (PID=33108) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:04:08.793+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:04:08.794+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:04:08.794+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:04:08.801+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:04:08.816+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:04:08.816+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:04:08.828+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:04:08.828+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T13:04:08.848+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.059 seconds
+[2024-11-19T13:04:49.009+0530] {processor.py:161} INFO - Started process (PID=33158) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:04:49.010+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:04:49.011+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:04:49.010+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:04:49.017+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:04:49.033+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:04:49.033+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:04:49.045+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:04:49.044+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T13:04:49.066+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.060 seconds
+[2024-11-19T13:05:30.239+0530] {processor.py:161} INFO - Started process (PID=33198) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:05:30.240+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:05:30.241+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:05:30.240+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:05:30.247+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:05:30.262+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:05:30.262+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:05:30.274+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:05:30.274+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T13:05:30.294+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.059 seconds
+[2024-11-19T13:06:11.420+0530] {processor.py:161} INFO - Started process (PID=33244) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:06:11.423+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:06:11.425+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:06:11.425+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:06:11.435+0530] {processor.py:840} INFO - DAG(s) 'ml_workflow' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:06:11.454+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:06:11.453+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:06:11.466+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:06:11.466+0530] {dag.py:3834} INFO - Setting next_dagrun for ml_workflow to None, run_after=None
+[2024-11-19T13:06:11.498+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.081 seconds
+[2024-11-19T13:06:51.492+0530] {processor.py:161} INFO - Started process (PID=33292) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:06:51.493+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:06:51.495+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:06:51.494+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:06:51.504+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:06:51.503+0530] {dagbag.py:350} ERROR - Failed to import: /home/sigmoid/airflow/dags/ml_workflow_dag.py
+Traceback (most recent call last):
+  File "/home/sigmoid/Desktop/Personal_Ml/airflow_poc/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/sigmoid/airflow/dags/ml_workflow_dag.py", line 4, in <module>
+    import ray
+ModuleNotFoundError: No module named 'ray'
+[2024-11-19T13:06:51.505+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:06:51.526+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.039 seconds
+[2024-11-19T13:07:31.692+0530] {processor.py:161} INFO - Started process (PID=33335) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:07:31.693+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:07:31.694+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:07:31.694+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:07:31.698+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:07:31.697+0530] {dagbag.py:350} ERROR - Failed to import: /home/sigmoid/airflow/dags/ml_workflow_dag.py
+Traceback (most recent call last):
+  File "/home/sigmoid/Desktop/Personal_Ml/airflow_poc/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/sigmoid/airflow/dags/ml_workflow_dag.py", line 4, in <module>
+    import ray
+ModuleNotFoundError: No module named 'ray'
+[2024-11-19T13:07:31.698+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:07:31.716+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.027 seconds
+[2024-11-19T13:08:08.216+0530] {processor.py:161} INFO - Started process (PID=33381) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:08:08.217+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:08:08.218+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:08:08.217+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:08:08.222+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:08:08.221+0530] {dagbag.py:350} ERROR - Failed to import: /home/sigmoid/airflow/dags/ml_workflow_dag.py
+Traceback (most recent call last):
+  File "/home/sigmoid/Desktop/Personal_Ml/airflow_poc/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/sigmoid/airflow/dags/ml_workflow_dag.py", line 4, in <module>
+    import ray
+ModuleNotFoundError: No module named 'ray'
+[2024-11-19T13:08:08.222+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:08:08.241+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.028 seconds
+[2024-11-19T13:08:45.878+0530] {processor.py:161} INFO - Started process (PID=33424) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:08:45.879+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:08:45.880+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:08:45.880+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:08:45.884+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:08:45.883+0530] {dagbag.py:350} ERROR - Failed to import: /home/sigmoid/airflow/dags/ml_workflow_dag.py
+Traceback (most recent call last):
+  File "/home/sigmoid/Desktop/Personal_Ml/airflow_poc/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/sigmoid/airflow/dags/ml_workflow_dag.py", line 4, in <module>
+    import ray
+ModuleNotFoundError: No module named 'ray'
+[2024-11-19T13:08:45.884+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:08:45.903+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 0.028 seconds
+[2024-11-19T13:11:18.680+0530] {processor.py:161} INFO - Started process (PID=33511) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:11:18.682+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:11:18.683+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:11:18.682+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:11:20.473+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:11:21.237+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:11:21.236+0530] {override.py:1769} INFO - Created Permission View: can read on DAG:toxic_comment_classification
+[2024-11-19T13:11:21.490+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:11:21.490+0530] {override.py:1769} INFO - Created Permission View: can edit on DAG:toxic_comment_classification
+[2024-11-19T13:11:21.699+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:11:21.698+0530] {override.py:1769} INFO - Created Permission View: can delete on DAG:toxic_comment_classification
+[2024-11-19T13:11:21.700+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:11:21.699+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:11:21.716+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:11:21.716+0530] {dag.py:3069} INFO - Creating ORM DAG for toxic_comment_classification
+[2024-11-19T13:11:21.717+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:11:21.717+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:11:22.008+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 3.330 seconds
+[2024-11-19T13:12:29.229+0530] {processor.py:161} INFO - Started process (PID=33600) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:12:29.231+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:12:29.232+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:12:29.232+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:12:31.651+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:12:31.670+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:12:31.668+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:12:31.686+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:12:31.686+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:12:31.845+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.622 seconds
+[2024-11-19T13:12:41.529+0530] {processor.py:161} INFO - Started process (PID=33673) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:12:41.535+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:12:41.537+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:12:41.536+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:12:43.888+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:12:44.015+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:12:44.015+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:12:44.027+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:12:44.027+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:12:44.052+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.528 seconds
+[2024-11-19T13:13:39.819+0530] {processor.py:161} INFO - Started process (PID=33845) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:13:39.821+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:13:39.822+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:13:39.821+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:13:41.720+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:13:41.737+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:13:41.735+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:13:41.751+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:13:41.751+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:13:41.780+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.965 seconds
+[2024-11-19T13:14:38.256+0530] {processor.py:161} INFO - Started process (PID=34124) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:14:38.257+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:14:38.258+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:14:38.258+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:14:39.715+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:14:39.736+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:14:39.735+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:14:39.754+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:14:39.753+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:14:39.790+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.538 seconds
+[2024-11-19T13:15:33.468+0530] {processor.py:161} INFO - Started process (PID=34449) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:15:33.470+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:15:33.471+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:15:33.470+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:15:36.030+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:15:36.061+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:15:36.059+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:15:36.089+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:15:36.089+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:15:36.134+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.670 seconds
+[2024-11-19T13:16:06.616+0530] {processor.py:161} INFO - Started process (PID=34830) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:16:06.618+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:16:06.620+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:16:06.620+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:16:09.163+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:16:09.196+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:16:09.194+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:16:09.222+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:16:09.222+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:16:09.303+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.694 seconds
+[2024-11-19T13:16:40.918+0530] {processor.py:161} INFO - Started process (PID=35152) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:16:40.920+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:16:40.922+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:16:40.921+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:16:42.933+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:16:42.949+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:16:42.948+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:16:42.966+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:16:42.966+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:16:42.995+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.082 seconds
+[2024-11-19T13:17:10.099+0530] {processor.py:161} INFO - Started process (PID=35215) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:17:10.100+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:17:10.101+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:17:10.101+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:17:11.737+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:17:11.851+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:17:11.851+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:17:11.862+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:17:11.861+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:17:11.888+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.793 seconds
+[2024-11-19T13:17:44.404+0530] {processor.py:161} INFO - Started process (PID=35269) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:17:44.405+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:17:44.406+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:17:44.406+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:17:45.929+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:17:45.943+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:17:45.942+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:17:45.954+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:17:45.953+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:17:45.972+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.571 seconds
+[2024-11-19T13:18:34.917+0530] {processor.py:161} INFO - Started process (PID=35324) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:18:34.918+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:18:34.919+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:18:34.919+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:18:36.322+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:18:36.333+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:18:36.333+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:18:36.344+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:18:36.344+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:18:36.373+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.461 seconds
+[2024-11-19T13:19:20.249+0530] {processor.py:161} INFO - Started process (PID=35387) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:19:20.251+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:19:20.252+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:19:20.251+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:19:21.578+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:19:21.590+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:19:21.590+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:19:21.601+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:19:21.600+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:19:21.620+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.373 seconds
+[2024-11-19T13:20:04.738+0530] {processor.py:161} INFO - Started process (PID=35494) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:20:04.741+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:20:04.743+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:20:04.743+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:20:07.098+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:20:07.123+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:20:07.122+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:20:07.144+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:20:07.144+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:20:07.170+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.443 seconds
+[2024-11-19T13:20:53.372+0530] {processor.py:161} INFO - Started process (PID=35611) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:20:53.373+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:20:53.374+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:20:53.374+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:20:54.721+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:20:54.732+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:20:54.731+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:20:54.743+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:20:54.743+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:20:54.769+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.400 seconds
+[2024-11-19T13:21:36.289+0530] {processor.py:161} INFO - Started process (PID=35693) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:21:36.290+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:21:36.292+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:21:36.291+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:21:37.776+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:21:37.789+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:21:37.788+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:21:37.799+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:21:37.799+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:21:37.828+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.543 seconds
+[2024-11-19T13:22:19.299+0530] {processor.py:161} INFO - Started process (PID=35757) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:22:19.300+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:22:19.302+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:22:19.301+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:22:20.957+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:22:20.969+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:22:20.968+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:22:20.981+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:22:20.981+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:22:21.004+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.709 seconds
+[2024-11-19T13:22:52.641+0530] {processor.py:161} INFO - Started process (PID=35816) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:22:52.642+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:22:52.643+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:22:52.642+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:22:54.784+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:22:54.973+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:22:54.972+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:22:54.996+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:22:54.995+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:22:55.035+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.397 seconds
+[2024-11-19T13:24:11.418+0530] {processor.py:161} INFO - Started process (PID=35939) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:24:11.421+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:24:11.423+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:24:11.422+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:24:13.879+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:24:13.912+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:24:13.908+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:24:13.944+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:24:13.943+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:24:13.993+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.578 seconds
+[2024-11-19T13:24:53.909+0530] {processor.py:161} INFO - Started process (PID=35987) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:24:53.911+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:24:53.913+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:24:53.912+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:24:56.702+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:24:56.731+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:24:56.729+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:24:56.752+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:24:56.752+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:24:56.795+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.890 seconds
+[2024-11-19T13:25:43.914+0530] {processor.py:161} INFO - Started process (PID=36046) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:25:43.916+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:25:43.917+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:25:43.916+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:25:46.132+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:25:46.148+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:25:46.147+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:25:46.170+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:25:46.170+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:25:46.211+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.302 seconds
+[2024-11-19T13:26:20.276+0530] {processor.py:161} INFO - Started process (PID=36098) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:26:20.277+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:26:20.278+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:26:20.277+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:26:21.594+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:26:21.607+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:26:21.606+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:26:21.620+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:26:21.619+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:26:21.642+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.370 seconds
+[2024-11-19T13:26:55.194+0530] {processor.py:161} INFO - Started process (PID=36154) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:26:55.196+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:26:55.197+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:26:55.196+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:26:56.529+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:26:56.542+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:26:56.541+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:26:56.552+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:26:56.551+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:26:56.571+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.379 seconds
+[2024-11-19T13:27:52.368+0530] {processor.py:161} INFO - Started process (PID=36237) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:27:52.369+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:27:52.370+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:27:52.370+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:27:53.991+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:27:54.093+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:27:54.093+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:27:54.104+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:27:54.104+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:27:54.124+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.759 seconds
+[2024-11-19T13:29:02.258+0530] {processor.py:161} INFO - Started process (PID=36320) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:29:02.259+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:29:02.260+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:29:02.260+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:29:05.282+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:29:05.300+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:29:05.296+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:29:05.312+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:29:05.312+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:29:05.341+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 3.089 seconds
+[2024-11-19T13:29:56.294+0530] {processor.py:161} INFO - Started process (PID=36381) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:29:56.295+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:29:56.296+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:29:56.296+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:29:58.651+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:29:58.669+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:29:58.667+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:29:58.687+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:29:58.687+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:29:58.720+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.429 seconds
+[2024-11-19T13:30:50.493+0530] {processor.py:161} INFO - Started process (PID=36454) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:30:50.494+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:30:50.495+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:30:50.495+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:30:51.785+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:30:51.796+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:30:51.796+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:30:51.806+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:30:51.806+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:30:51.825+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.335 seconds
+[2024-11-19T13:31:34.673+0530] {processor.py:161} INFO - Started process (PID=36760) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:31:34.674+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:31:34.675+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:31:34.674+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:31:36.704+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:31:36.726+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:31:36.725+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:31:36.746+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:31:36.746+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:31:36.779+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.110 seconds
+[2024-11-19T13:32:19.133+0530] {processor.py:161} INFO - Started process (PID=36824) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:32:19.134+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:32:19.135+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:32:19.134+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:32:20.413+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:32:20.425+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:32:20.424+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:32:20.434+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:32:20.434+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:32:20.452+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.323 seconds
+[2024-11-19T13:32:57.981+0530] {processor.py:161} INFO - Started process (PID=36877) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:32:57.982+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:32:57.983+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:32:57.982+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:32:59.287+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:32:59.298+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:32:59.297+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:32:59.308+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:32:59.308+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:32:59.326+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.348 seconds
+[2024-11-19T13:33:37.606+0530] {processor.py:161} INFO - Started process (PID=36932) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:33:37.607+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:33:37.609+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:33:37.608+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:33:39.055+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:33:39.078+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:33:39.077+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:33:39.097+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:33:39.097+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:33:39.132+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.529 seconds
+[2024-11-19T13:40:04.705+0530] {processor.py:161} INFO - Started process (PID=37182) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:40:04.706+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:40:04.707+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:40:04.707+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:40:29.840+0530] {logging_mixin.py:188} WARNING - /home/sigmoid/Desktop/Personal_Ml/airflow_poc/airflow_env/lib/python3.8/site-packages/sklearn/linear_model/_logistic.py:460 ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+[2024-11-19T13:40:34.713+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:40:34.713+0530] {timeout.py:68} ERROR - Process timed out, PID: 37182
+[2024-11-19T13:41:58.223+0530] {processor.py:161} INFO - Started process (PID=37284) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:41:58.224+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:41:58.225+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:41:58.225+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:41:59.552+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:41:59.636+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:41:59.636+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:41:59.645+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:41:59.645+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:41:59.666+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.446 seconds
+[2024-11-19T13:42:39.209+0530] {processor.py:161} INFO - Started process (PID=37334) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:42:39.210+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:42:39.211+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:42:39.210+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:42:40.511+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:42:40.522+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:42:40.522+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:42:40.532+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:42:40.532+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:42:40.552+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.346 seconds
+[2024-11-19T13:43:22.380+0530] {processor.py:161} INFO - Started process (PID=37385) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:43:22.381+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:43:22.382+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:43:22.382+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:43:23.679+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:43:23.690+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:43:23.690+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:43:23.700+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:43:23.700+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:43:23.718+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.342 seconds
+[2024-11-19T13:44:06.041+0530] {processor.py:161} INFO - Started process (PID=37439) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:44:06.042+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:44:06.043+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:44:06.042+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:44:07.359+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:44:07.370+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:44:07.369+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:44:07.381+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:44:07.380+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:44:07.411+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.374 seconds
+[2024-11-19T13:44:46.289+0530] {processor.py:161} INFO - Started process (PID=37489) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:44:46.290+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:44:46.291+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:44:46.290+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:44:47.590+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:44:47.601+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:44:47.600+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:44:47.610+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:44:47.610+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:44:47.629+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.343 seconds
+[2024-11-19T13:45:27.322+0530] {processor.py:161} INFO - Started process (PID=37536) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:45:27.323+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:45:27.324+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:45:27.324+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:45:28.623+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:45:28.636+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:45:28.635+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:45:28.645+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:45:28.645+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:45:28.664+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.345 seconds
+[2024-11-19T13:46:11.249+0530] {processor.py:161} INFO - Started process (PID=37589) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:46:11.250+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:46:11.251+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:46:11.251+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:46:12.551+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:46:12.562+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:46:12.561+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:46:12.571+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:46:12.571+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:46:12.590+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.344 seconds
+[2024-11-19T13:46:54.549+0530] {processor.py:161} INFO - Started process (PID=37898) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:46:54.550+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:46:54.551+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:46:54.551+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:46:56.634+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:46:56.646+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:46:56.645+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:46:56.656+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:46:56.656+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:46:56.675+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.129 seconds
+[2024-11-19T13:47:36.793+0530] {processor.py:161} INFO - Started process (PID=37949) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:47:36.794+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:47:36.795+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:47:36.795+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:47:38.086+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:47:38.098+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:47:38.097+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:47:38.107+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:47:38.107+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:47:38.126+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.336 seconds
+[2024-11-19T13:48:15.384+0530] {processor.py:161} INFO - Started process (PID=37995) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:48:15.385+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:48:15.386+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:48:15.385+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:48:16.729+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:48:16.740+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:48:16.739+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:48:16.750+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:48:16.749+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:48:16.768+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.388 seconds
+[2024-11-19T13:48:55.755+0530] {processor.py:161} INFO - Started process (PID=38046) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:48:55.756+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:48:55.757+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:48:55.757+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:48:57.041+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:48:57.052+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:48:57.052+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:48:57.062+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:48:57.061+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:48:57.089+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.337 seconds
+[2024-11-19T13:49:32.473+0530] {processor.py:161} INFO - Started process (PID=38090) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:49:32.474+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:49:32.475+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:49:32.475+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:49:33.774+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:49:33.786+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:49:33.785+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:49:33.796+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:49:33.796+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:49:33.815+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.345 seconds
+[2024-11-19T13:50:10.121+0530] {processor.py:161} INFO - Started process (PID=38138) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:50:10.122+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:50:10.123+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:50:10.123+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:50:11.422+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:50:11.433+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:50:11.433+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:50:11.443+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:50:11.442+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:50:11.470+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.352 seconds
+[2024-11-19T13:50:51.450+0530] {processor.py:161} INFO - Started process (PID=38189) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:50:51.451+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:50:51.452+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:50:51.452+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:50:52.731+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:50:52.742+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:50:52.741+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:50:52.751+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:50:52.751+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:50:52.770+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.323 seconds
+[2024-11-19T13:51:33.954+0530] {processor.py:161} INFO - Started process (PID=38238) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:51:33.955+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:51:33.956+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:51:33.955+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:51:35.262+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:51:35.273+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:51:35.272+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:51:35.284+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:51:35.283+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:51:35.302+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.351 seconds
+[2024-11-19T13:52:14.180+0530] {processor.py:161} INFO - Started process (PID=38293) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:52:14.181+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:52:14.182+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:52:14.181+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:52:15.479+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:52:15.490+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:52:15.489+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:52:15.499+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:52:15.499+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:52:15.518+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.342 seconds
+[2024-11-19T13:52:56.020+0530] {processor.py:161} INFO - Started process (PID=38342) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:52:56.021+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:52:56.022+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:52:56.022+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:52:57.307+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:52:57.319+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:52:57.318+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:52:57.328+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:52:57.328+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:52:57.347+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.330 seconds
+[2024-11-19T13:53:36.208+0530] {processor.py:161} INFO - Started process (PID=38416) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:53:36.210+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T13:53:36.211+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:53:36.210+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:53:37.529+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T13:53:37.540+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:53:37.540+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T13:53:37.550+0530] {logging_mixin.py:188} INFO - [2024-11-19T13:53:37.550+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T13:53:37.572+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.367 seconds
+[2024-11-19T14:28:16.002+0530] {processor.py:161} INFO - Started process (PID=54490) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:28:16.004+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T14:28:16.005+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:28:16.005+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:28:18.661+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:28:18.839+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:28:18.837+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T14:28:18.865+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:28:18.865+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T14:28:18.899+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.903 seconds
+[2024-11-19T14:31:01.240+0530] {processor.py:161} INFO - Started process (PID=54669) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:31:01.242+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T14:31:01.243+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:31:01.242+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:31:02.596+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:31:02.613+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:31:02.610+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T14:31:02.624+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:31:02.623+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T14:31:02.646+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.409 seconds
+[2024-11-19T14:31:47.464+0530] {processor.py:161} INFO - Started process (PID=55020) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:31:47.465+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T14:31:47.466+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:31:47.465+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:31:49.320+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:31:49.342+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:31:49.341+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T14:31:49.362+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:31:49.362+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T14:31:49.401+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.941 seconds
+[2024-11-19T14:32:31.808+0530] {processor.py:161} INFO - Started process (PID=55076) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:32:31.809+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T14:32:31.810+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:32:31.810+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:32:33.136+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:32:33.148+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:32:33.147+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T14:32:33.157+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:32:33.157+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T14:32:33.184+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.379 seconds
+[2024-11-19T14:33:11.589+0530] {processor.py:161} INFO - Started process (PID=55129) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:33:11.591+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T14:33:11.592+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:33:11.592+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:33:12.892+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:33:12.903+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:33:12.903+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T14:33:12.914+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:33:12.914+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T14:33:12.935+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.352 seconds
+[2024-11-19T14:33:55.521+0530] {processor.py:161} INFO - Started process (PID=55184) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:33:55.523+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T14:33:55.524+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:33:55.523+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:33:57.966+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:33:57.979+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:33:57.978+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T14:33:57.991+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:33:57.990+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T14:33:58.014+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 2.497 seconds
+[2024-11-19T14:34:40.741+0530] {processor.py:161} INFO - Started process (PID=55270) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:34:40.742+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T14:34:40.743+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:34:40.743+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:34:42.189+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:34:42.203+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:34:42.202+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T14:34:42.216+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:34:42.215+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T14:34:42.243+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.505 seconds
+[2024-11-19T14:35:24.888+0530] {processor.py:161} INFO - Started process (PID=55334) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:35:24.889+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T14:35:24.890+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:35:24.890+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:35:26.228+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:35:26.240+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:35:26.240+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T14:35:26.250+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:35:26.249+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T14:35:26.268+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.385 seconds
+[2024-11-19T14:36:07.811+0530] {processor.py:161} INFO - Started process (PID=55388) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:36:07.812+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T14:36:07.813+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:36:07.813+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:36:09.118+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:36:09.129+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:36:09.128+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T14:36:09.138+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:36:09.138+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T14:36:09.158+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.350 seconds
+[2024-11-19T14:36:50.383+0530] {processor.py:161} INFO - Started process (PID=55471) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:36:50.385+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T14:36:50.386+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:36:50.385+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:36:51.736+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:36:51.747+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:36:51.746+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T14:36:51.757+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:36:51.756+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T14:36:51.775+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.395 seconds
+[2024-11-19T14:37:36.635+0530] {processor.py:161} INFO - Started process (PID=55623) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:37:36.636+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T14:37:36.637+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:37:36.637+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:37:38.500+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:37:38.525+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:37:38.522+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T14:37:38.545+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:37:38.545+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T14:37:38.579+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.948 seconds
+[2024-11-19T14:38:20.203+0530] {processor.py:161} INFO - Started process (PID=55709) to work on /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:38:20.204+0530] {processor.py:830} INFO - Processing file /home/sigmoid/airflow/dags/ml_workflow_dag.py for tasks to queue
+[2024-11-19T14:38:20.205+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:38:20.205+0530] {dagbag.py:540} INFO - Filling up the DagBag from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:38:21.554+0530] {processor.py:840} INFO - DAG(s) 'toxic_comment_classification' retrieved from /home/sigmoid/airflow/dags/ml_workflow_dag.py
+[2024-11-19T14:38:21.565+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:38:21.564+0530] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-11-19T14:38:21.577+0530] {logging_mixin.py:188} INFO - [2024-11-19T14:38:21.577+0530] {dag.py:3834} INFO - Setting next_dagrun for toxic_comment_classification to None, run_after=None
+[2024-11-19T14:38:21.607+0530] {processor.py:183} INFO - Processing /home/sigmoid/airflow/dags/ml_workflow_dag.py took 1.408 seconds

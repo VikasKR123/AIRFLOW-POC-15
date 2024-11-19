@@ -1,0 +1,31 @@
+[2024-11-19T14:29:21.934+0530] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: toxic_comment_classification.train_model manual__2024-11-19T07:53:15.879516+00:00 [queued]>
+[2024-11-19T14:29:21.943+0530] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: toxic_comment_classification.train_model manual__2024-11-19T07:53:15.879516+00:00 [queued]>
+[2024-11-19T14:29:21.944+0530] {taskinstance.py:2193} INFO - Starting attempt 8 of 9
+[2024-11-19T14:29:21.960+0530] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): train_model> on 2024-11-19 07:53:15.879516+00:00
+[2024-11-19T14:29:21.965+0530] {standard_task_runner.py:60} INFO - Started process 54556 to run task
+[2024-11-19T14:29:21.971+0530] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'toxic_comment_classification', 'train_model', 'manual__2024-11-19T07:53:15.879516+00:00', '--job-id', '34', '--raw', '--subdir', 'DAGS_FOLDER/ml_workflow_dag.py', '--cfg-path', '/tmp/tmp49yo0gcd']
+[2024-11-19T14:29:21.972+0530] {standard_task_runner.py:88} INFO - Job 34: Subtask train_model
+[2024-11-19T14:29:22.017+0530] {task_command.py:423} INFO - Running <TaskInstance: toxic_comment_classification.train_model manual__2024-11-19T07:53:15.879516+00:00 [running]> on host sigmoid-ThinkPad-L470-W10DG
+[2024-11-19T14:29:22.082+0530] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='toxic_comment_classification' AIRFLOW_CTX_TASK_ID='train_model' AIRFLOW_CTX_EXECUTION_DATE='2024-11-19T07:53:15.879516+00:00' AIRFLOW_CTX_TRY_NUMBER='8' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-11-19T07:53:15.879516+00:00'
+[2024-11-19T14:29:39.467+0530] {logging_mixin.py:188} WARNING - /home/sigmoid/Desktop/Personal_Ml/airflow_poc/airflow_env/lib/python3.8/site-packages/sklearn/linear_model/_logistic.py:460 ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+[2024-11-19T14:29:50.154+0530] {logging_mixin.py:188} WARNING - /home/sigmoid/Desktop/Personal_Ml/airflow_poc/airflow_env/lib/python3.8/site-packages/sklearn/linear_model/_logistic.py:460 ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+[2024-11-19T14:29:57.376+0530] {logging_mixin.py:188} WARNING - 2024/11/19 14:29:57 WARNING mlflow.models.model: Model logged without a signature and input example. Please set `input_example` parameter when logging the model to auto infer the model signature.
+[2024-11-19T14:29:58.829+0530] {logging_mixin.py:188} WARNING - Registered model 'ToxicCommentModel' already exists. Creating a new version of this model...
+[2024-11-19T14:29:58.849+0530] {logging_mixin.py:188} WARNING - Created version '3' of model 'ToxicCommentModel'.
+[2024-11-19T14:29:58.914+0530] {logging_mixin.py:188} INFO - Model Accuracy: 0.92
+[2024-11-19T14:30:00.047+0530] {python.py:202} INFO - Done. Returned value was: None
+[2024-11-19T14:30:00.058+0530] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=toxic_comment_classification, task_id=train_model, execution_date=20241119T075315, start_date=20241119T085921, end_date=20241119T090000
+[2024-11-19T14:30:00.134+0530] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-11-19T14:30:00.156+0530] {taskinstance.py:3312} INFO - 1 downstream tasks scheduled from follow-on schedule check
